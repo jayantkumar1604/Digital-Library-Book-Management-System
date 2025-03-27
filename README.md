@@ -3,7 +3,7 @@
 bash
 Copy
 Edit
-git clone (https://github.com/jayantkumar1604/Digital-Library-Book-Management-System/tree/main/DigitalLibraryBookManagementSystem)
+git clone (https://github.com/jayantkumar1604/Digital-Library-Book-Management-System)
 cd springboot-auth-service
 2. Configure the Database
 Open src/main/resources/application.properties
