@@ -1,0 +1,5 @@
+com\example\DigitalLibraryBookManagementSystem\service\BookService.class
+com\example\DigitalLibraryBookManagementSystem\controller\BookController.class
+com\example\DigitalLibraryBookManagementSystem\repository\BookRepository.class
+com\example\DigitalLibraryBookManagementSystem\DigitalLibraryBookManagementSystemApplication.class
+com\example\DigitalLibraryBookManagementSystem\model\Book.class
