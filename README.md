@@ -3,7 +3,7 @@
 bash
 Copy
 Edit
-git clone https://github.com/jayantkumar1604/springboot-auth-service.git
+git clone (https://github.com/jayantkumar1604/Digital-Library-Book-Management-System/tree/main/DigitalLibraryBookManagementSystem)
 cd springboot-auth-service
 2. Configure the Database
 Open src/main/resources/application.properties
@@ -70,21 +70,3 @@ Deployed at: <your deployment link here>
 Configuring JWT expiration and refresh tokens.
 
 Handling Spring Security filters for JWT verification.
-
-MySQL connection pooling optimizations.
-
-🛡️ Improvements for the Future
-Add API rate limiting to prevent brute force attacks.
-
-Implement a password reset mechanism.
-
-Include email verification during user registration.
-
-✅ Once you've added the README.md, commit and push it to your GitHub repo:
-
-bash
-Copy
-Edit
-git add README.md
-git commit -m "Add README with setup instructions"
-git push origin main
